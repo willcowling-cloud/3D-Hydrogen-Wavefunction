@@ -36,8 +36,8 @@ Next we create the Probability Density Function (PDF) of the wavefunction, and u
 *Plotting many accepted points builds the visualisation of the electron density cloud
 
 **2D Slice**: Using an adapted version of the 3D PDF we are able to plot the wavefunction in 2D. This allows us to:
-*Visulualise nodes more clearly
-*Create a heat map to represent the dense reigons of high probability 
+* Visulualise nodes more clearly
+* Create a heat map to represent the dense reigons of high probability 
 
 
 ## Problems I faced along the way
