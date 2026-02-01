@@ -1,6 +1,6 @@
 # Hydrogen Atom Wavefunction Visualizer
 
-This Python code creates a Monte Carlo simulation using a Rejection Sampling algorithm to map the electron probability cloud for the Hydrogen atom, given the chosen quantum numbers. 
+This Python code creates a Monte Carlo simulation using a Rejection Sampling algorithm to map the electron probability density for the Hydrogen atom, given the chosen quantum numbers n,l,m. 
 
 ## Features
 * **3D Probability Cloud**: Uses rejection sampling to visualize the electron density for different Hydrogen orbitals.
