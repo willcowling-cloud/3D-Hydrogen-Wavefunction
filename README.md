@@ -9,29 +9,23 @@ This Python code creates a Monte Carlo simulation using a Rejection Sampling alg
 ## Visualizations
 
 ### 2s Orbital (n=2, l=0, m=0)
-The $2s$ orbital is spherically symmetric and contains one radial node.
-
 | 3D Monte Carlo Cloud | 2D Density Slice (y=0) |
 | :---: | :---: |
-| ![2s 3D](Hydrogen%20Orbital%20-%202s,%20m=0.png) | ![2s 2D](Hydrogen%202D%20Slice%20-%202s,%20m=0.png) |
+| <img src="Hydrogen%20Orbital%20-%202s,%20m=0.png" width="400"> | <img src="Hydrogen%202D%20Slice%20-%202s,%20m=0.png" width="400"> |
 
 ---
 
 ### 2p Orbital (n=2, l=1, m=0)
-The $2p$ orbital ($m=0$) exhibits the classic "dumbbell" shape pointing along the Z-axis, with an angular node at the XY-plane.
-
 | 3D Monte Carlo Cloud | 2D Density Slice (y=0) |
 | :---: | :---: |
-| ![2p 3D](Hydrogen%20Orbital%20-%202p,%20m=0.png) | ![2p 2D](Hydrogen%202D%20Slice%20-%202p,%20m=0.png) |
+| <img src="Hydrogen%20Orbital%20-%202p,%20m=0.png" width="400"> | <img src="Hydrogen%202D%20Slice%20-%202p,%20m=0.png" width="400"> |
 
 ---
 
 ### 4s Orbital (n=4, l=0, m=0)
-A higher energy state showing significantly more complex radial structure. Notice the three distinct radial nodes visible in the 2D slice.
-
 | 3D Monte Carlo Cloud | 2D Density Slice (y=0) |
 | :---: | :---: |
-| ![4s 3D](Hydrogen%20Orbital%20-%204s,%20m=0.png) | ![4s 2D](Hydrogen%202D%20Slice%20-%204s,%20m=0.png) |
+| <img src="Hydrogen%20Orbital%20-%204s,%20m=0.png" width="400"> | <img src="Hydrogen%202D%20Slice%20-%204s,%20m=0.png" width="400"> |
 
 ## How it Works
 The simulation solves the Schrödinger equation for the Hydrogen atom using:
