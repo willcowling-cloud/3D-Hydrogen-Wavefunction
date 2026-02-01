@@ -1,4 +1,4 @@
-from physics import hydrogen_wave_fn, a0
+from physics import H_wave_fn, a0
 import numpy as np
 import matplotlib.pyplot as plt
 
